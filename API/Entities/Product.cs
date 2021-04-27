@@ -4,7 +4,6 @@ namespace API.Entities
     {
         // short cut -> prop
         public int Id { get; set; }
-
         public string Name{get; set;}
     }
 }
